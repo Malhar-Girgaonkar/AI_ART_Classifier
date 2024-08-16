@@ -1,0 +1,7 @@
+*.keras
+*.h5
+Main_dataset/
+Dataset_used/Training_Dataset/AI/
+Dataset_used/Training_Dataset/Human/
+Dataset_used/Validation_Dataset/AI/
+Dataset_used/Validation_Dataset/Human/
